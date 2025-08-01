@@ -2,7 +2,7 @@
 # Hi, I'm Anitha Chava 👋
 
 ### About Me  
-I'm Anitha, a third-year Computer Science & Engineering student with a specialization in Data Science at RISE Krishna Sai Gandhi Group of Institutions, Ongole. Passionate about coding and crafting innovative solutions, I love exploring new technologies and applying my skills to real-world challenges. This space showcases my journey, skills, and aspirations as I continue to grow as a developer.
+I'm Anitha, a final-year Computer Science & Engineering student with a specialization in Data Science at RISE Krishna Sai Gandhi Group of Institutions, Ongole. Passionate about coding and crafting innovative solutions, I love exploring new technologies and applying my skills to real-world challenges. This space showcases my journey, skills, and aspirations as I continue to grow as a developer.
 
 ### 🛠 Skills & Interests
 
